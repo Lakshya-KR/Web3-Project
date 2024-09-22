@@ -1,0 +1,15 @@
+[package]
+name = "Quiz"
+version = "1.0.0"
+authors = []
+
+[addresses]
+Quiz = '0xb158fa323e4552a86c35c95cb6a4608e5bb775dd381786bb894e3cd6f83a7a90'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
