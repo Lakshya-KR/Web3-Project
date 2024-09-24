@@ -82,6 +82,4 @@ public fun claim_reward(
 For any queries or support, feel free to reach out via email.
 
 - **Email**: [E23CSEU1807@bennett.edu.in](mailto:E23CSEU1807@bennett.edu.in)
-```
 
-This should serve as a good starting point for your `README.md`, and you can expand upon it as needed!
